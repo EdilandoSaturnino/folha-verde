@@ -19,14 +19,14 @@ let products: Product[] = [
     name: 'Kit Horta Vertical',
     description: 'Inclui suporte, vasos e sementes',
     price: 129.9,
-    image: '/images/kit-horta-vertical.jfif',
+    image: 'https://imgur.com/Nkh8k4O.jpg',
   },
   {
     id: 2,
     name: "Suculenta 'Estrela do Deserto'",
     description: 'Tamanhos: P, M, G',
     price: 24.9,
-    image: '/images/kit-horta-vertical.jfif',
+    image: 'https://imgur.com/5qiqMEj.jpg',
   },
 ]
 

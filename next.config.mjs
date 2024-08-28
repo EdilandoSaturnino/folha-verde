@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['localhost'],
+    domains: ['localhost', 'imgur.com'],
   },
 }
-export default nextConfig;
+export default nextConfig
